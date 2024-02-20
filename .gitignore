@@ -1,3 +1,4 @@
 **/datasets/
 **/.venv/
 **/pretrained-models/
+**/preds
