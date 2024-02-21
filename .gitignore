@@ -2,3 +2,5 @@
 **/.venv/
 **/pretrained-models/
 **/preds
+**/pickle_dumps
+**/wandb
